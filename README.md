@@ -7,11 +7,10 @@ If you use the code, please cite the following article: <br>
 
 **[Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular geometries](https://arxiv.org/abs/2504.06327)**
 
-    @article{kashefi2025PhysicsInformedKANpointnet,
-      title={Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular 
-      geometries},
+    @article{kashefi2025VisionMambaPorous,
+      title={Vision Mamba for Permeability Prediction of Porous Media},
       author={Kashefi, Ali and Mukerji, Tapan},
-      journal={arXiv preprint arXiv:2504.06327},
+      journal={arXiv preprint arXiv:***},
       year={2025}}
 
 **Abstract** <be>
