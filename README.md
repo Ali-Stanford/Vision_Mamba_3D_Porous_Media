@@ -5,7 +5,7 @@
 **Citation** <br>
 If you use the code, please cite the following article: <br>
 
-**[Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular geometries](https://arxiv.org/abs/2504.06327)**
+**[Vision Mamba for Permeability Prediction of Porous Media]()**
 
     @article{kashefi2025VisionMambaPorous,
       title={Vision Mamba for Permeability Prediction of Porous Media},
@@ -53,14 +53,6 @@ Install the required Python libraries:
 
 ```bash
 pip3 install numpy matplotlib torchsummary
-```
-
-**Step 5: Download the Data** <be>
-
-Use the following batch command to download the dataset (a NumPy array, approximately 42MB in size).
-
-```bash
-wget https://web.stanford.edu/~kashefi/data/HeatTransferData.npy
 ```
 
 **Questions?** <br>
