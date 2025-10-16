@@ -1,9 +1,3 @@
-# Vision-Mamba-style 3D permeability regressor (MSE)
-# - Reads HDF5: datasets "cubes" (64x64x64) and "perms" (scalar)
-# - Patchifies 3D volumes, then stacks VMamba3DBlocks
-# - Selective scans along D, H, W with bidirectional fusion
-# - Outputs scalar permeability via MSE on train-time min-max normalized targets
-
 import math
 import numpy as np
 import torch
