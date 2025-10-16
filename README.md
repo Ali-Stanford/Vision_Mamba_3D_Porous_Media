@@ -1,5 +1,8 @@
 # Vision Mamba for Permeability Prediction of Porous Media
 
+![pic](./porous1.png)
+![pic](./porous2.png)
+
 **Software by:** Ali Kashefi (kashefi@stanford.edu) 
 
 **Citation** <br>
