@@ -8,13 +8,13 @@
 **Citation** <br>
 If you use the code, please cite the following article: <br>
 
-**[Vision Mamba for Permeability Prediction of Porous Media]()**
+**[Vision Mamba for Permeability Prediction of Porous Media](https://arxiv.org/abs/2510.14516)**
 
     @article{kashefi2025VisionMambaPorous,
-      title={Vision Mamba for Permeability Prediction of Porous Media},
-      author={Kashefi, Ali and Mukerji, Tapan},
-      journal={arXiv preprint arXiv:***},
-      year={2025}}
+      title={Vision Mamba for Permeability Prediction of Porous Media}, 
+      author={Ali Kashefi and Tapan Mukerji},
+      year={2025},
+      url={https://arxiv.org/abs/2510.14516}}
 
 **Abstract** <be>
 
