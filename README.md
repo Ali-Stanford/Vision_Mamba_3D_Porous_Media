@@ -1,4 +1,4 @@
-# Vision Mamba for Permeability Prediction of Porous Media
+# Vision Mamba for permeability prediction of porous media
 
 ![pic](./porous1.png)
 ![pic](./porous2.png)
