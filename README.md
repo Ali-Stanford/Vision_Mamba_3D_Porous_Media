@@ -8,13 +8,19 @@
 **Citation** <br>
 If you use the code, please cite the following article: <br>
 
-**[Vision Mamba for Permeability Prediction of Porous Media](https://arxiv.org/abs/2510.14516)**
+**[Vision Mamba for permeability prediction of porous media](https://doi.org/10.1063/5.0307953)**
 
-    @article{kashefi2025VisionMambaPorous,
-      title={Vision Mamba for Permeability Prediction of Porous Media}, 
-      author={Ali Kashefi and Tapan Mukerji},
-      year={2025},
-      url={https://arxiv.org/abs/2510.14516}}
+
+    @article{10.1063/5.0307953,
+      author = {Kashefi, Ali and Mukerji, Tapan},
+      title = {Vision Mamba for permeability prediction of porous media},
+      journal = {Physics of Fluids},
+      volume = {38},
+      number = {1},
+      pages = {017111},
+      year = {2026},
+      url = {https://doi.org/10.1063/5.0307953}}
+
 
 **Abstract** <be>
 
