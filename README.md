@@ -11,7 +11,7 @@ If you use the code, please cite the following article: <br>
 **[Vision Mamba for permeability prediction of porous media](https://doi.org/10.1063/5.0307953)**
 
 
-    @article{10.1063/5.0307953,
+    @article{kashefi2026Mamba,
       author = {Kashefi, Ali and Mukerji, Tapan},
       title = {Vision Mamba for permeability prediction of porous media},
       journal = {Physics of Fluids},
